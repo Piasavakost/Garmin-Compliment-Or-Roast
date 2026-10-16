@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="D:\The_Portable_Silicon_Lab\Misc\Monkey C\ComplimentOrRoast\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastMenuDelegate.mc" id="1" lineNum="5" parent="globals/ComplimentOrRoastMenuDelegate" pc="268435460" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastApp.mc" id="2" lineNum="29" parent="globals" pc="268435479" symbol="getApp"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastApp.mc" id="2" lineNum="30" parent="globals" pc="268435489" symbol="getApp"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastDelegate.mc" id="3" lineNum="5" parent="globals/ComplimentOrRoastDelegate" pc="268435505" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastDelegate.mc" id="3" lineNum="8" parent="globals/ComplimentOrRoastDelegate" pc="268435523" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastDelegate.mc" id="3" lineNum="9" parent="globals/ComplimentOrRoastDelegate" pc="268435641" symbol="&lt;init&gt;"/>
+        <entry filename="d:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\bin\\gen\\006-B3596-00\\source\\Rez.mcgen" id="4" lineNum="7" parent="globals/Rez" pc="268435838" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastApp.mc" id="5" lineNum="5" parent="globals/ComplimentOrRoastApp" pc="268435862" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastView.mc" id="6" lineNum="4" parent="globals/ComplimentOrRoastView" pc="268435881" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastMenuDelegate.mc" id="7" lineNum="11" parent="globals/ComplimentOrRoastMenuDelegate" pc="268435900" symbol="onMenuItem"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastMenuDelegate.mc" id="7" lineNum="12" parent="globals/ComplimentOrRoastMenuDelegate" pc="268435902" symbol="onMenuItem"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastMenuDelegate.mc" id="7" lineNum="13" parent="globals/ComplimentOrRoastMenuDelegate" pc="268435913" symbol="onMenuItem"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastMenuDelegate.mc" id="7" lineNum="14" parent="globals/ComplimentOrRoastMenuDelegate" pc="268435937" symbol="onMenuItem"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastMenuDelegate.mc" id="7" lineNum="15" parent="globals/ComplimentOrRoastMenuDelegate" pc="268435948" symbol="onMenuItem"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastMenuDelegate.mc" id="8" lineNum="7" parent="globals/ComplimentOrRoastMenuDelegate" pc="268435973" symbol="initialize"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastMenuDelegate.mc" id="8" lineNum="8" parent="globals/ComplimentOrRoastMenuDelegate" pc="268435975" symbol="initialize"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastDelegate.mc" id="9" lineNum="16" parent="globals/ComplimentOrRoastDelegate" pc="268435994" symbol="onMenu"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastDelegate.mc" id="9" lineNum="17" parent="globals/ComplimentOrRoastDelegate" pc="268435996" symbol="onMenu"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastDelegate.mc" id="9" lineNum="18" parent="globals/ComplimentOrRoastDelegate" pc="268436077" symbol="onMenu"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastDelegate.mc" id="10" lineNum="11" parent="globals/ComplimentOrRoastDelegate" pc="268436080" symbol="initialize"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastDelegate.mc" id="10" lineNum="12" parent="globals/ComplimentOrRoastDelegate" pc="268436082" symbol="initialize"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastDelegate.mc" id="10" lineNum="13" parent="globals/ComplimentOrRoastDelegate" pc="268436100" symbol="initialize"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastDelegate.mc" id="11" lineNum="21" parent="globals/ComplimentOrRoastDelegate" pc="268436111" symbol="onKey"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastDelegate.mc" id="11" lineNum="22" parent="globals/ComplimentOrRoastDelegate" pc="268436115" symbol="onKey"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastDelegate.mc" id="11" lineNum="24" parent="globals/ComplimentOrRoastDelegate" pc="268436128" symbol="onKey"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastDelegate.mc" id="11" lineNum="25" parent="globals/ComplimentOrRoastDelegate" pc="268436139" symbol="onKey"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastDelegate.mc" id="11" lineNum="26" parent="globals/ComplimentOrRoastDelegate" pc="268436174" symbol="onKey"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastDelegate.mc" id="11" lineNum="27" parent="globals/ComplimentOrRoastDelegate" pc="268436209" symbol="onKey"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastDelegate.mc" id="11" lineNum="28" parent="globals/ComplimentOrRoastDelegate" pc="268436228" symbol="onKey"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastDelegate.mc" id="11" lineNum="29" parent="globals/ComplimentOrRoastDelegate" pc="268436271" symbol="onKey"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastDelegate.mc" id="11" lineNum="31" parent="globals/ComplimentOrRoastDelegate" pc="268436289" symbol="onKey"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastDelegate.mc" id="11" lineNum="34" parent="globals/ComplimentOrRoastDelegate" pc="268436295" symbol="onKey"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastApp.mc" id="12" lineNum="12" parent="globals/ComplimentOrRoastApp" pc="268436298" symbol="onStart"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastApp.mc" id="13" lineNum="20" parent="globals/ComplimentOrRoastApp" pc="268436301" symbol="getInitialView"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastApp.mc" id="13" lineNum="21" parent="globals/ComplimentOrRoastApp" pc="268436305" symbol="getInitialView"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastApp.mc" id="13" lineNum="22" parent="globals/ComplimentOrRoastApp" pc="268436329" symbol="getInitialView"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastApp.mc" id="13" lineNum="24" parent="globals/ComplimentOrRoastApp" pc="268436355" symbol="getInitialView"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastApp.mc" id="14" lineNum="7" parent="globals/ComplimentOrRoastApp" pc="268436382" symbol="initialize"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastApp.mc" id="14" lineNum="8" parent="globals/ComplimentOrRoastApp" pc="268436384" symbol="initialize"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastApp.mc" id="15" lineNum="16" parent="globals/ComplimentOrRoastApp" pc="268436403" symbol="onStop"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastView.mc" id="17" lineNum="15" parent="globals/ComplimentOrRoastView" pc="268436406" symbol="onLayout"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastView.mc" id="17" lineNum="16" parent="globals/ComplimentOrRoastView" pc="268436408" symbol="onLayout"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastView.mc" id="18" lineNum="10" parent="globals/ComplimentOrRoastView" pc="268436450" symbol="initialize"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastView.mc" id="18" lineNum="11" parent="globals/ComplimentOrRoastView" pc="268436452" symbol="initialize"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastView.mc" id="20" lineNum="26" parent="globals/ComplimentOrRoastView" pc="268436471" symbol="onUpdate"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastView.mc" id="20" lineNum="27" parent="globals/ComplimentOrRoastView" pc="268436473" symbol="onUpdate"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastView.mc" id="20" lineNum="29" parent="globals/ComplimentOrRoastView" pc="268436485" symbol="onUpdate"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastView.mc" id="20" lineNum="30" parent="globals/ComplimentOrRoastView" pc="268436507" symbol="onUpdate"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastView.mc" id="20" lineNum="32" parent="globals/ComplimentOrRoastView" pc="268436551" symbol="onUpdate"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastView.mc" id="20" lineNum="34" parent="globals/ComplimentOrRoastView" pc="268436573" symbol="onUpdate"/>
+        <entry filename="D:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\source\\ComplimentOrRoastView.mc" id="20" lineNum="42" parent="globals/ComplimentOrRoastView" pc="268436625" symbol="onUpdate"/>
+        <entry filename="d:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\bin\\gen\\006-B3596-00\\source\\Rez.mcgen" id="21" lineNum="14" parent="globals/Rez/Layouts" pc="268436678" symbol="MainLayout"/>
+        <entry filename="d:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\bin\\gen\\006-B3596-00\\source\\Rez.mcgen" id="21" lineNum="15" parent="globals/Rez/Layouts" pc="268436690" symbol="MainLayout"/>
+        <entry filename="d:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\bin\\gen\\006-B3596-00\\source\\Rez.mcgen" id="21" lineNum="17" parent="globals/Rez/Layouts" pc="268436703" symbol="MainLayout"/>
+        <entry filename="d:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\bin\\gen\\006-B3596-00\\source\\Rez.mcgen" id="21" lineNum="19" parent="globals/Rez/Layouts" pc="268436837" symbol="MainLayout"/>
+        <entry filename="d:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\bin\\gen\\006-B3596-00\\source\\Rez.mcgen" id="21" lineNum="20" parent="globals/Rez/Layouts" pc="268436942" symbol="MainLayout"/>
+        <entry filename="d:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\bin\\gen\\006-B3596-00\\source\\Rez.mcgen" id="21" lineNum="22" parent="globals/Rez/Layouts" pc="268436979" symbol="MainLayout"/>
+        <entry filename="d:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\bin\\gen\\006-B3596-00\\source\\Rez.mcgen" id="22" lineNum="27" parent="globals/Rez/Menus/MainMenu" pc="268437006" symbol="&lt;init&gt;"/>
+        <entry filename="d:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\bin\\gen\\006-B3596-00\\source\\Rez.mcgen" id="23" lineNum="28" parent="globals/Rez/Menus/MainMenu" pc="268437025" symbol="initialize"/>
+        <entry filename="d:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\bin\\gen\\006-B3596-00\\source\\Rez.mcgen" id="23" lineNum="29" parent="globals/Rez/Menus/MainMenu" pc="268437027" symbol="initialize"/>
+        <entry filename="d:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\bin\\gen\\006-B3596-00\\source\\Rez.mcgen" id="23" lineNum="30" parent="globals/Rez/Menus/MainMenu" pc="268437045" symbol="initialize"/>
+        <entry filename="d:\\The_Portable_Silicon_Lab\\Misc\\Monkey C\\ComplimentOrRoast\\bin\\gen\\006-B3596-00\\source\\Rez.mcgen" id="23" lineNum="31" parent="globals/Rez/Menus/MainMenu" pc="268437101" symbol="initialize"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry field="true" id="8389346" symbol="text"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="5" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="20" method="true" symbol="MainLayout"/>
+        <entry field="true" id="16" symbol="introthing"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="22" symbol="AppName"/>
+        <entry id="6" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8389080" method="true" symbol="onMenu"/>
+        <entry id="8389345" symbol="rezId"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry field="true" id="25" symbol="prompt"/>
+        <entry field="true" id="19" symbol="id_monkey"/>
+        <entry id="8" object="true" symbol="ComplimentOrRoastDelegate"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="27" symbol="item_2"/>
+        <entry id="26" symbol="item_1"/>
+        <entry id="15" module="true" symbol="Menus"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry id="4" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry field="true" id="12" symbol="string3"/>
+        <entry field="true" id="11" symbol="string2"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="21" object="true" symbol="MainMenu"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry field="true" id="18" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="10" object="true" symbol="ComplimentOrRoastView"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="9" object="true" symbol="ComplimentOrRoastMenuDelegate"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="7" object="true" symbol="ComplimentOrRoastApp"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="17" symbol="secondarything"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="13" symbol="view"/>
+        <entry id="8388641" module="true" symbol="Math"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389109" method="true" symbol="onMenuItem"/>
+        <entry field="true" id="8389347" symbol="color"/>
+        <entry id="8389097" method="true" symbol="onKey"/>
+        <entry id="14" module="true" symbol="Layouts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry field="true" id="24" symbol="menu_label_2"/>
+        <entry field="true" id="23" symbol="menu_label_1"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435972" name="item" stackId="1" startPc="268435900"/>
+        <entry arg="true" endPc="268436110" name="view" stackId="1" startPc="268436080"/>
+        <entry arg="true" endPc="268436297" name="keyevt" stackId="1" startPc="268436111"/>
+        <entry endPc="268436297" name="key" stackId="2" startPc="268436115"/>
+        <entry endPc="268436291" name="result2" stackId="3" startPc="268436139"/>
+        <entry endPc="268436291" name="result3" stackId="4" startPc="268436139"/>
+        <entry endPc="268436381" name="view" stackId="1" startPc="268436305"/>
+        <entry endPc="268436381" name="delegate" stackId="2" startPc="268436305"/>
+        <entry arg="true" endPc="268436449" name="dc" stackId="1" startPc="268436406"/>
+        <entry arg="true" endPc="268436677" name="dc" stackId="1" startPc="268436471"/>
+        <entry arg="true" endPc="268437005" name="dc" stackId="1" startPc="268436678"/>
+        <entry endPc="268437005" name="rez_cmp_local_var_dc_getWidth" stackId="2" startPc="268436690"/>
+        <entry endPc="268437005" name="rez_cmp_local_text_1193959466" stackId="3" startPc="268436690"/>
+        <entry endPc="268437005" name="rez_cmp_local_bitmap_id_monkey" stackId="4" startPc="268436690"/>
+    </localVars>
+    <deviceInfo deviceVersion="3d0fb192a2cf01699aefd0f384af3f527e5885bd" partNumber="006-B3596-00"/>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_2"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_1"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="prompt"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_monkey"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="71" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/ComplimentOrRoastMenuDelegate" offset="158" parentId="globals" symbolId="ComplimentOrRoastMenuDelegate" type="class"/>
+        <dataEntry label="globals/ComplimentOrRoastDelegate" offset="213" parentId="globals" symbolId="ComplimentOrRoastDelegate" type="class"/>
+        <dataEntry label="globals/Rez" offset="300" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/ComplimentOrRoastApp" offset="363" parentId="globals" symbolId="ComplimentOrRoastApp" type="class"/>
+        <dataEntry label="globals/ComplimentOrRoastView" offset="434" parentId="globals" symbolId="ComplimentOrRoastView" type="class"/>
+        <dataEntry label="globals/Rez/Drawables" offset="537" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="584" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="623" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="662" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/Rez/Menus/MainMenu" offset="725" parentId="Menus" symbolId="MainMenu" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435478" name="&lt;init&gt;" parent="ComplimentOrRoastMenuDelegate" startPc="268435460">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435504" name="getApp" startPc="268435479">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435837" name="&lt;init&gt;" parent="ComplimentOrRoastDelegate" startPc="268435505">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435861" name="&lt;init&gt;" parent="Rez" startPc="268435838">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435880" name="&lt;init&gt;" parent="ComplimentOrRoastApp" startPc="268435862">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435899" name="&lt;init&gt;" parent="ComplimentOrRoastView" startPc="268435881">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435972" name="onMenuItem" parent="ComplimentOrRoastMenuDelegate" startPc="268435900">
+            <param id="item"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435993" name="initialize" parent="ComplimentOrRoastMenuDelegate" startPc="268435973">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436079" name="onMenu" parent="ComplimentOrRoastDelegate" startPc="268435994">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436110" name="initialize" parent="ComplimentOrRoastDelegate" startPc="268436080">
+            <param id="view"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436297" name="onKey" parent="ComplimentOrRoastDelegate" startPc="268436111">
+            <param id="keyevt"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Layouts">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Menus">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436300" name="onStart" parent="ComplimentOrRoastApp" startPc="268436298">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436381" name="getInitialView" parent="ComplimentOrRoastApp" startPc="268436301">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436402" name="initialize" parent="ComplimentOrRoastApp" startPc="268436382">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436405" name="onStop" parent="ComplimentOrRoastApp" startPc="268436403">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="ComplimentOrRoastView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436449" name="onLayout" parent="ComplimentOrRoastView" startPc="268436406">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436470" name="initialize" parent="ComplimentOrRoastView" startPc="268436450">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="ComplimentOrRoastView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436677" name="onUpdate" parent="ComplimentOrRoastView" startPc="268436471">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437005" name="MainLayout" parent="Layouts" startPc="268436678">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437024" name="&lt;init&gt;" parent="MainMenu" startPc="268437006">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437157" name="initialize" parent="MainMenu" startPc="268437025">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
